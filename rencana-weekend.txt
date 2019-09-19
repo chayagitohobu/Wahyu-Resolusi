@@ -1,5 +1,6 @@
 Rencana weekend : 
 - Berenang
   * Jam 08:00 - 10:00
+  * Pulang jam 11:00
 - Ngoding
 - dll
